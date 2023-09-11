@@ -19,4 +19,4 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Repository](https://github.com/Quirozdev/ResultsSummaryComponent)
-- Live Site URL: [Live Demo]()
+- Live Site URL: [Live Demo](https://quirozdev.github.io/ResultsSummaryComponent/)
